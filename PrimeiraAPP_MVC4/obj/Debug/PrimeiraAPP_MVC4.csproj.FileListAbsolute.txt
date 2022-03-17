@@ -1,0 +1,105 @@
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\PrimeiraAPP_MVC4.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\PrimeiraAPP_MVC4.pdb
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Antlr3.Runtime.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.AspNet.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.Core.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\EntityFramework.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.Infrastructure.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Newtonsoft.Json.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Net.Http.Formatting.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Helpers.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.WebHost.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Mvc.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Optimization.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Razor.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Deployment.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Razor.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebGrease.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.Data.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.WebData.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\EntityFramework.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Newtonsoft.Json.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Net.Http.Formatting.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Helpers.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.WebHost.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Mvc.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Razor.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Deployment.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Razor.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.Data.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.WebData.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.AspNet.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.Core.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.csprojResolveAssemblyReference.cache
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.pdb
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\PrimeiraAPP_MVC4.dll.config
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\PrimeiraAPP_MVC4.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\PrimeiraAPP_MVC4.pdb
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Antlr3.Runtime.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.Core.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\EntityFramework.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Newtonsoft.Json.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Net.Http.Formatting.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Helpers.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.WebHost.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Mvc.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Optimization.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Razor.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebGrease.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.Data.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.WebData.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Mono.Math.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\EntityFramework.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Newtonsoft.Json.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Net.Http.Formatting.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Helpers.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Http.WebHost.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Mvc.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.Razor.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.Data.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\WebMatrix.WebData.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.Core.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\bin\Mono.Math.xml
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.csproj.AssemblyReference.cache
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.csproj.CopyComplete
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.dll
+C:\Users\Renan\Downloads\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\PrimeiraAPP_MVC4\obj\Debug\PrimeiraAPP_MVC4.pdb
